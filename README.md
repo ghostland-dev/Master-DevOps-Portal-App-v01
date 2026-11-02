@@ -1,5 +1,7 @@
 # DevOps Portal
 
+[![CI](https://github.com/ghostland-dev/devops-portal/actions/workflows/ci.yml/badge.svg)](https://github.com/ghostland-dev/devops-portal/actions/workflows/ci.yml)
+
 The DevOps Portal is a web-based platform designed to provide an overview of your environment's health and recent activity. It allows DevOps engineers to monitor and manage deployment pipelines, system performance, and security alerts across different environments (Development, Staging, Production). The dashboard provides real-time insights into key system metrics, enabling users to make data-driven decisions.
 
 ## Features
